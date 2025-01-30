@@ -3,6 +3,10 @@
 This is  short, self-contained, correct example of behavior in SwiftUI scrolling a very long list.
 
 This demo allows you to test SwiftUI's `LazyVStack` with up to 192,759,564 simple generated text-only items.
+On my 2019 Intel MBP, this scrolls at full FPS even with the max number of items.
+
+
+https://github.com/user-attachments/assets/1f27fe3f-eb84-4a56-878a-1123a495eedc
 
 
 ## Why? 
